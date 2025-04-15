@@ -1,9 +1,0 @@
-*.pyc
-results/
-.DS_Store
-__pycache__/
-scratch/
-.ipynb_checkpoints/
-.vscode/
-models.py
-maxlikespy.egg-info/
